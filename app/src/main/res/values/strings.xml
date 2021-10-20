@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Testing01</string>
+    <string name="Main_subHeadline">your business in your convenience</string>
+    <string name="Main_Headline">ACCESS</string>
+    <string name="Login_Headline">Welcome</string>
+    <string name="Login_SubHead">Login to continue</string>
+    <string name="Login_Username">Username</string>
+    <string name="Login_Password">Password</string>
+    <string name="Main_get_started">Get Started</string>
+    <string name="Login_btnlogin">Login</string>
+    <string name="Login_forgot_password">Forgot Password?</string>
+    <string name="Login_create_an_account">Create an account</string>
+    <string name="Signup_welcome">Welcome</string>
+    <string name="Signup_full_name">Full Name</string>
+    <string name="Signup_email">Email</string>
+    <string name="Signup_confirm_password">Confirm Password</string>
+    <string name="Signup_btnsign_in">Sign in</string>
+    <string name="already_have_an_account">Already have an account?</string>>
+    <string name="login">Login</string>
+</resources>
